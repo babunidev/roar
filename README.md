@@ -1,6 +1,6 @@
 # ROARR Addon — Readme
 
-ROARR is a lightweight Turtle WoW addon that plays a random battle-themed emote whenever you press a specific action-bar button. It is fully configurable: slot, chance, cooldown, and enable/disable state.
+ROARR is a lightweight World of Warcraft 1.12 add-on that plays a random battle-themed emote whenever you press a specific action-bar button. It is fully configurable: slot, chance, cooldown, and enable/disable state.
 
 ## Features
 
@@ -65,7 +65,7 @@ If all conditions pass, a random emote from the pool fires.
 ## Notes
 
 * All emotes use WoW’s built-in `DoEmote()` tokens.
-* Works on Vanilla/Turtle WoW’s Lua 5.0 environment.
+* Works on Vanilla WoW’s Lua 5.0 environment.
 * Does *not* alter gameplay or combat decisions—pure flavour.
 
 ## License

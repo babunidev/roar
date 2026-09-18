@@ -1,4 +1,4 @@
--- ROARR v1.0 (Vanilla/Turtle 1.12, Lua 5.0-safe)
+-- ROARR v1.0 (Vanilla 1.12, Lua 5.0-safe)
 -- SavedVariables: ROARRDB
 -- Plays a random battle-themed emote when pressing a configured action bar slot.
 
