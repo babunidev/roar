@@ -76,7 +76,7 @@ Free to modify, copy, or shout into the void. Enjoy your glorious battle-cries.
 
 ## Author
 
-ROAR is created and maintained by **Babunigaming (Morkahja / Buxbrew)**.
+ROARR is authored and maintained by **Babuni.dev**.
 
 ## Emotes Used
 
